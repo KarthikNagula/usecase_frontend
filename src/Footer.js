@@ -21,7 +21,7 @@ import FilteredList from "./Components/SearchIncidentDetails.js";
            <footer  className="sticky-footer" style={{'height': '20px'}}>
             <div  className="container my-auto">
               <div  className="copyright text-center my-auto">
-                <span>Copyright © Ninja Team 1</span>
+                <span>Copyright © Ninja Team-1</span>
               </div>
             </div>
           </footer>
